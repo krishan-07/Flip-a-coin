@@ -29,8 +29,8 @@ flipBtn.addEventListener("click", () => {
 });
 
 function updateStats() {
-  document.querySelector("#heads-count").textContent = `Heads: ${heads}`;
-  document.querySelector("#tails-count").textContent = `Tails: ${tails}`;
+  document.querySelector("#heads-count").textContent = `Heads : ${heads}`;
+  document.querySelector("#tails-count").textContent = `Tails : ${tails}`;
 }
 
 function disableBtn() {
