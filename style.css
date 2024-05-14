@@ -84,7 +84,7 @@ body {
   }
 
   100% {
-    transform: rotateX(1980deg),rotate3d();
+    transform: rotateX(1980deg)
   }
 }
 
